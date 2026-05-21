@@ -9,7 +9,7 @@ https://github.com/ricardorpalma/TyHM_2026
 ### Tabla
 
 |NOMBRE Y APELLIDO | WHATSAPP | CORREO | LINK |
-|-|-|-|
+|-|-|-|-|
 | Mateo Ambrogetti | 2612725726 | mateoambrogetti04@gmail.com | https://github.com/mateo-ambrogetti/MODULO-1 |
 | Fabricio Montuori | 2615397760 | fabriciomontuori18@gmail.com | https://github.com/fabricio-montuori/MODULO-1 |
 | Guillermo Pellegrini | 2615732904 | guillermopellegrini1@gmail.com | https://github.com/GuillermoPellegrini1/Modulo-1 |
@@ -21,9 +21,9 @@ https://github.com/ricardorpalma/TyHM_2026
 ### Grupo: Calculito
 ### Tabla
 |NOMBRE Y APELLIDO | CORREO | LINK |
-|-|-|-|-|
+|-|-|-|
 | Mateo Ambrogetti | mateoambrogetti04@gmail.com | https://github.com/mateo-ambrogetti/MODULO-2 |
-| Fabricio Montuori | fabriciomontuori18@gmail.com | |
-| Guillermo Pellegrini| guillermopellegrini1@gmail.com | |
-| Tiago Sánchez | tiago.sanchez500@gmail.com | |
-| Tomas Bietti | tomibietti7@gmail.com | |
+| Fabricio Montuori | fabriciomontuori18@gmail.com | asda|
+| Guillermo Pellegrini| guillermopellegrini1@gmail.com |asdsa |
+| Tiago Sánchez | tiago.sanchez500@gmail.com |asdas |
+| Tomas Bietti | tomibietti7@gmail.com | asdas|
